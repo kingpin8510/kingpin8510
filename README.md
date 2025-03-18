@@ -17,6 +17,8 @@
 
 -->
 
+
+<!--
 <h1 align="center">Hi 👋! My name is Rakesh and I'm a passionate web developer</h1>
 
 ###
@@ -163,3 +165,4 @@
 <img src="https://raw.githubusercontent.com/kingpin8510/kingpin8510/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
